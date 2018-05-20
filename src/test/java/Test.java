@@ -4,6 +4,11 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("/yhN.do".equalsIgnoreCase("/yhn.do"));
+
+        // 修改行
+        System.out.println("test-modify");
+
+        // 冲突行
+        System.out.println("test-dev");
     }
 }
