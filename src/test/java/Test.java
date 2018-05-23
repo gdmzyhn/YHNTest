@@ -7,10 +7,17 @@ public class Test {
         // 新增行
         System.out.println("test-add");
 
+
+
+
+
+
         // 修改行
-        System.out.println("test-modify-");
+        System.out.println("test-modify");
 
         // 冲突行
-        System.out.println("test-dev-yh");
+        System.out.println("test-yh");
+
+        // test cherry-pick
     }
 }
